@@ -1,0 +1,6 @@
+int64 command
+int64 target
+---
+bool valid_action
+
+

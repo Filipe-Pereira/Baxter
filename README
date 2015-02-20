@@ -1,0 +1,11 @@
+How to run code :
+
+Compile : catkin_make
+
+Launch File : roslaunch ˜/catkin_ws/src/group_hw1/launch/hw1.launch &
+
+ROS commands : rosrun group_hw1 sim_master &
+               rosrun group_hw1 controller &
+	       rosparam set /num_blocks 11
+	       rosparam set /configuration “stacked_ascending”
+	       

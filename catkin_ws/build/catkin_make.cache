@@ -1,0 +1,2 @@
+group_hw1
+-DCATKIN_DEVEL_PREFIX=/home/fpereira/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fpereira/catkin_ws/install -G Unix Makefiles

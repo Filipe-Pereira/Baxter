@@ -1,0 +1,8 @@
+prefix=/home/fpereira/catkin_ws/install
+
+Name: group_hw1
+Description: Description of group_hw1
+Version: 0.0.0
+Cflags: -I/home/fpereira/catkin_ws/install/include
+Libs: -L/home/fpereira/catkin_ws/install/lib -lgroup_hw1
+Requires: message_runtime

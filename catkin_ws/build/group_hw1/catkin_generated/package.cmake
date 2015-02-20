@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "group_hw1")
+set(group_hw1_MAINTAINER "braza <braza@todo.todo>")
+set(group_hw1_DEPRECATED "")
+set(group_hw1_VERSION "0.0.0")
+set(group_hw1_BUILD_DEPENDS "message_generation" "roscpp" "rospy" "std_msgs")
+set(group_hw1_RUN_DEPENDS "message_runtime" "roscpp" "rospy" "std_msgs")
+set(group_hw1_BUILDTOOL_DEPENDS "catkin")

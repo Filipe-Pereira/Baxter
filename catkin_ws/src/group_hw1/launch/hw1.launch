@@ -1,0 +1,19 @@
+<launch>
+	<node
+	 pkg = "group_hw1"
+	 type= "sim_master"
+	 name = "sim_master0"
+	 output = "screen" 
+	/>
+	 
+	<node
+	 pkg = "group_hw1"
+	 type= "controller"
+	 name = "controller0"
+	 output = "screen" 
+	/>
+		
+	  <param name="num_blocks" value="11"/>
+	  <param name="configuration" value="stacked_descending"/>
+	
+</launch>	
