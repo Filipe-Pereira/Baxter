@@ -1,0 +1,2 @@
+# Baxter
+Robotic Manipulation Class
